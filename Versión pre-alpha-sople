@@ -1,1 +1,10 @@
-print("Hola Eafitenses")
+<!doctype html>
+<html  lang="en">
+<head> 
+<title></title>
+<meta charset = "UTF">
+</head>
+<body>
+<link rel ="Stylesheet"="name.CSS">
+</body>
+</html>
